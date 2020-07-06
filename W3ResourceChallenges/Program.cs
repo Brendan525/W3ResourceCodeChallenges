@@ -141,24 +141,52 @@ namespace W3ResourceChallenges
             ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-            int num1, num2;
+            //int num1, num2;
 
-            Console.Write("Write a C# Sharp program to print on screen the output of adding, subtracting, multiplying and dividing of two numbers which will be entered by the user"); // Question 7
+            //Console.Write("Write a C# Sharp program to print on screen the output of adding, subtracting, multiplying and dividing of two numbers which will be entered by the user"); // Question 7
+
+            //Console.Write("\n");
+
+            //Console.WriteLine("Enter the first number: ");
+            //num1 = Convert.ToInt32(Console.ReadLine());
+
+            //Console.Write("\n");
+
+            //Console.WriteLine("Enter the second number: ");
+            //num2 = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine(num1 + num2);
+            //Console.WriteLine(num1 - num2);
+            //Console.WriteLine(num1 * num2);
+            //Console.WriteLine(num1 / num2);
+
+
+
+            ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+            int num;
+
+            Console.Write("Write a C# Sharp program that takes a number as input and print its multiplication table"); // Question 8
 
             Console.Write("\n");
 
-            Console.WriteLine("Enter the first number: ");
-            num1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter a number: ");
+            num = Convert.ToInt32(Console.ReadLine());
 
             Console.Write("\n");
 
-            Console.WriteLine("Enter the second number: ");
-            num2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(num1 + num2);
-            Console.WriteLine(num1 - num2);
-            Console.WriteLine(num1 * num2);
-            Console.WriteLine(num1 / num2);
+
+            int i = 0;
+            while (i <= 10)
+            {
+                Console.WriteLine($"{num} * {i} = " + num * i);
+                i++;
+            }
+
+
+
         }
     }
 }

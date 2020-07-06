@@ -1,0 +1,6 @@
+/Users/Brendan/Desktop/C#CodeChallenges/W3ResourceChallenges/W3ResourceChallenges/bin/Debug/W3ResourceChallenges.exe
+/Users/Brendan/Desktop/C#CodeChallenges/W3ResourceChallenges/W3ResourceChallenges/bin/Debug/W3ResourceChallenges.pdb
+/Users/Brendan/Desktop/C#CodeChallenges/W3ResourceChallenges/W3ResourceChallenges/obj/Debug/W3ResourceChallenges.csprojAssemblyReference.cache
+/Users/Brendan/Desktop/C#CodeChallenges/W3ResourceChallenges/W3ResourceChallenges/obj/Debug/W3ResourceChallenges.csproj.CoreCompileInputs.cache
+/Users/Brendan/Desktop/C#CodeChallenges/W3ResourceChallenges/W3ResourceChallenges/obj/Debug/W3ResourceChallenges.exe
+/Users/Brendan/Desktop/C#CodeChallenges/W3ResourceChallenges/W3ResourceChallenges/obj/Debug/W3ResourceChallenges.pdb
